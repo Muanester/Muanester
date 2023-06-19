@@ -1,6 +1,6 @@
 # Hi there 👋, My name is ~~Steve.~~
 ## I am a Data Analyst and a Software Dev.
-![Home](https://github.com/Muanester/muanester/assets/117966580/eee9379e-2b26-4481-a473-fdd5af2009e5)
+![Home](https://github.com/Muanester/muanester/assets/117966580/59db1a94-8565-49c6-84b9-0227883c9ff1)
 
 #### As a data analyst, I excel in extracting valuable insights from complex datasets and translating them into actionable recommendations.
 #### My proficiency as a web developer allows me to transform data-driven insights into visually appealing and user-friendly web applications.
