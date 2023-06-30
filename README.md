@@ -2,12 +2,12 @@
 ## I am a Data Analyst and a Software Dev.
 ![Home](https://github.com/Muanester/muanester/assets/117966580/59db1a94-8565-49c6-84b9-0227883c9ff1)
 
-#### As a data analyst, I excel in extracting valuable insights from complex datasets and translating them into actionable recommendations.
-#### My proficiency as a web developer allows me to transform data-driven insights into visually appealing and user-friendly web applications.
+### As a data analyst, I excel in extracting valuable insights from complex datasets and translating them into actionable recommendations.
+### My proficiency as a web developer allows me to transform data-driven insights into visually appealing and user-friendly web applications.
 
 ![About](https://github.com/Muanester/muanester/assets/117966580/48f1078b-3d86-400c-a707-9aa743fd817b)
 
-#### Whether you need *data analysis, web development,* or a combination of both, I am ready to leverage my expertise to meet your unique requirements.
+### Whether you need *data analysis, web development,* or a combination of both, I am ready to leverage my expertise to meet your unique requirements.
 
 ![Contact](https://github.com/Muanester/muanester/assets/117966580/9a8f36f9-ca73-400f-b777-995a2443acfa)
 
