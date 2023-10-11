@@ -11,7 +11,7 @@
 
 ![Contact](https://github.com/Muanester/muanester/assets/117966580/9a8f36f9-ca73-400f-b777-995a2443acfa)
 
-**Skills: R / JS / HTML / CSS**
+**Skills:  REACT.js / Node.js / R **
 
 - 🔭 I’m currently working on new projects . . . 
 
