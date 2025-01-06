@@ -1,19 +1,19 @@
 # Hi there 👋, My name is ~~Steve.~~
-## I am a Data Analyst and a Software Dev.
+## I am a software developer and a data analyst.
 
 
-### As a data analyst, I excel in extracting valuable insights from complex datasets and translating them into actionable recommendations.
 ### My proficiency as a web developer allows me to transform data-driven insights into visually appealing and user-friendly web applications.
+### As a data analyst, I excel in extracting valuable insights from complex datasets and translating them into actionable recommendations.
 
 ![About](https://github.com/Muanester/muanester/assets/117966580/48f1078b-3d86-400c-a707-9aa743fd817b)
 
-### Whether you need *data analysis, web development,* or a combination of both, I am ready to leverage my expertise to meet your unique requirements.
+### Whether you need *web development, data analysis,* or a combination of both, I can leverage my expertise to meet your unique requirements.
 
 ![Contact](https://github.com/Muanester/muanester/assets/117966580/9a8f36f9-ca73-400f-b777-995a2443acfa)
 
-**Skills: JAVASCRIPT / REACT.js / Node.js / R**
+**Skills: REACT.js**
 
-- 🔭 I’m currently working on new projects . . . 
+- 🔭 I’m currently working on new projects... 
 
 
  
